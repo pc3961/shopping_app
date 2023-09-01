@@ -70,7 +70,7 @@ class DetailsScreen extends StatelessWidget {
                         const SizedBox(height: kDefaultPaddin / 2),
                         Description(product: product),
                         const SizedBox(height: kDefaultPaddin / 2),
-                        CounterWithFavBtn(),
+                        const CounterWithFavBtn(),
                         const SizedBox(height: kDefaultPaddin / 2),
                         AddToCart(product: product)
                       ],
