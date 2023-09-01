@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:shopping_app/models/Product.dart';
 
 import '../../../constants.dart';
 import 'categories.dart';
+import 'item_card.dart';
 
 class Body extends StatelessWidget {
   const Body({super.key});
